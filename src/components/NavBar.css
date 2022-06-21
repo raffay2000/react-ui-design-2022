@@ -1,0 +1,30 @@
+.container2 ul{
+    display: flex;
+    list-style: none;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8B0000;
+    padding: 16px 155px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.container2 ul li{
+    color: #e5e5e5;
+    padding: 0px 25px
+}
+.social-icons  img{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* width:15%; */
+    padding: 0px 20px;
+}
+.container0 {
+        width: 80%;
+        margin: 20px auto;
+    }
+ul{
+    padding: 0px ;
+    margin: 0px;
+}
