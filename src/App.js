@@ -3,6 +3,8 @@ import NavBar from './components/NavBar';
 import HeadingSection from './components/HeadingSection';
 import About from './components/About';
 import Main from "./components/Main";
+import Why from './components/Why';
+import Footer from './components/Footer';
 function App() {
   return (
     <>
@@ -11,6 +13,8 @@ function App() {
     <HeadingSection/>
     <About/>
     <Main/>
+    <Why/>
+    <Footer/>
     </>
   );
 } 

@@ -4,7 +4,7 @@ import img from "../assets/6.png"
 function About() {
   return (
     <>
-    <div className='container' style={{display:"flex",justifyContent:"space-between",marginTop:60,marginBottom:60}}>
+    <div className='container77' style={{display:"flex",justifyContent:"space-between"}}>
         <div>
             <h1>About Us</h1>
             <div style={{height:8,width:100,backgroundColor:"#8B0000"}}/>
