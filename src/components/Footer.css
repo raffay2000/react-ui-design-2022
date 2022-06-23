@@ -1,6 +1,5 @@
 .upper-div{
 /* width: 1920px; */
-height: 424px;
 /* UI Properties */
 background: transparent linear-gradient(180deg, #000000 0%, #110606 48%, #8B0000 100%) 0% 0% no-repeat padding-box;
 }
@@ -12,8 +11,5 @@ background: #000000 0% 0% no-repeat padding-box;
 }
 .col p{
     margin-bottom: 0%;
-    margin-top: 12px;
-}
-.col{
-    margin-top: 12px;
+    margin: 15px 0px;
 }

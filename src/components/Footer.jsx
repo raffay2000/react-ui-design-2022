@@ -10,7 +10,7 @@ function Footer() {
     <div>
       {/* upper div */}
       <div className="upper-div">
-        <div class="container" style={{ paddingTop: "100px" }}>
+        <div class="9" style={{ padding:"100px 170px" }}>
           <div class="row row-cols-4" style={{ justifyContent: "center" }}>
             <div class="col" style={{ color: "white" }}>
               <img src={img5} alt="not found" />
@@ -32,7 +32,7 @@ function Footer() {
             <div class="col" style={{ color: "white" }}>
               <h6 style={{marginTop:"30px",marginBottom:"0px"}}>QUICK LINKS</h6>
               <p>Home</p>
-              <p> About Us</p>
+              <p>About Us</p>
               <p>RLM Advantage</p>
               <p>Services</p>
             </div>
